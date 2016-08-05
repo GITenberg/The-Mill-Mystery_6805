@@ -1,0 +1,32 @@
+_repo: The-Mill-Mystery_6805
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Green, Anna Katharine
+    aliases:
+    - Rohlfs, Mrs. Charles
+    - Rohlfs, Anna Katharine Green
+    birthdate: 1846
+    deathdate: 1935
+    gutenberg_agent_id: '541'
+    url: http://www.gutenberg.org/2009/agents/541
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Katharine_Green
+description: Early detective novelist Anna Katharine Green was a unique writer in
+  several respects, including the fact that many of the detectives featured in her
+  novels are women. In The Mill Mystery, protagonist Constance Sterling takes on the
+  seemingly impossible task of uncovering the true culprits behind the drowning death
+  of a popular young pastor who is believed to have killed himself.
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: The Mill Mystery
+url: http://www.gutenberg.org/ebooks/6805
