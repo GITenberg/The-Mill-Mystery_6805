@@ -1,5 +1,8 @@
 _repo: The-Mill-Mystery_6805
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Green, Anna Katharine
@@ -16,6 +19,8 @@ description: Early detective novelist Anna Katharine Green was a unique writer i
   novels are women. In The Mill Mystery, protagonist Constance Sterling takes on the
   seemingly impossible task of uncovering the true culprits behind the drowning death
   of a popular young pastor who is believed to have killed himself.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6805#The-Mill-Mystery
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
